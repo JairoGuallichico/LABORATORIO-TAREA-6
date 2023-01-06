@@ -40,6 +40,7 @@ Obtener conocimientos globales en lo que concierne al Capítulo 11 y 12 del libr
 ![image](https://user-images.githubusercontent.com/116815201/210872539-0b69d21d-97e0-4b25-80fc-955391fa0990.png)
 ![image](https://user-images.githubusercontent.com/116815201/210872571-6180fc38-55ff-4b23-8bdf-c73297cba05b.png)
 ![image](https://user-images.githubusercontent.com/116815201/210872612-59f60e70-eefc-4c3f-bb2b-01f83b26a4f2.png)
+
 4.	VIDEO
 
 https://youtu.be/e3miAvMeSKE
